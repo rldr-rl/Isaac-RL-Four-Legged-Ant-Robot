@@ -8,16 +8,30 @@ This repository presents an implementation for a 12-DOF four-legged Ant robot us
 <table>
   <tr>
     <td align="center">
-      <img src="assets/rl-video-step-0.gif" width="200" alt="Ant Robot Training Stage 0">
+      <img src="assets/rl-video-step-0.gif" width="250" alt="Ant Robot Training Stage 0">
       <br><sub><b>Training Start (Iteration 0)</b></sub>
     </td>
     <td align="center">
-      <img src="assets/rl-video-step-2000.gif" width="200" alt="Ant Robot Training Stage 2000">
+      <img src="assets/rl-video-step-2000.gif" width="250" alt="Ant Robot Training Stage 2000">
       <br><sub><b>Mid-Training (Iteration 2000)</b></sub>
     </td>
         <td align="center">
-      <img src="assets/rl-video-step-8000.gif" width="200" alt="Ant Robot Training Stage 2000">
+      <img src="assets/rl-video-step-8000.gif" width="250" alt="Ant Robot Training Stage 2000">
       <br><sub><b>Post-Training (Iteration 8000)</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/obstacle.gif" width="200" alt="Ant Robot Training Stage 2000">
+      <br><sub><b>Post-Training (Situation with Some obstacles)</b></sub>
+    </td>
+        <td align="center">
+      <img src="assets/highobstacle.gif" width="200" alt="Ant Robot Training Stage 2000">
+      <br><sub><b>Post-Training (Situation with Some obstacles 2)</b></sub>
     </td>
   </tr>
 </table>
