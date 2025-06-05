@@ -1,4 +1,4 @@
-# Isaac LAB for 12-DOF Four-Legged Ant Robot
+# Isaac LAB for 12-DoF Four-Legged Ant Robot
 
 This repository presents an implementation for a 12-DOF four-legged Ant robot using Isaac Sim & LAB.
 
@@ -8,22 +8,28 @@ This repository presents an implementation for a 12-DOF four-legged Ant robot us
 <table>
   <tr>
     <td align="center">
-      <img src="assets/rl-video-step-0.gif" width="300" alt="Ant Robot Training Stage 0">
+      <img src="assets/rl-video-step-0.gif" width="200" alt="Ant Robot Training Stage 0">
       <br><sub><b>Training Start (Iteration 0)</b></sub>
     </td>
     <td align="center">
-      <img src="assets/rl-video-step-2000.gif" width="300" alt="Ant Robot Training Stage 2000">
+      <img src="assets/rl-video-step-2000.gif" width="200" alt="Ant Robot Training Stage 2000">
       <br><sub><b>Mid-Training (Iteration 2000)</b></sub>
+    </td>
+        <td align="center">
+      <img src="assets/rl-video-step-8000.gif" width="200" alt="Ant Robot Training Stage 2000">
+      <br><sub><b>Post-Training (Iteration 8000)</b></sub>
     </td>
   </tr>
 </table>
 
 ## ✨ Features
 
-* **Ant v0.0.0**: First version of Ant robot added.
-* **Leverages RSL-RL**: Built upon the efficient RSL-RL library [2] for reinforcement learning.
+This repository is heavily inspired by [1], but introduces several key differences and features:
+
+* **Ant v0.0**: 12-DoF Ant robot applied.
 * **Extremely Easy Setup**: "One-file" implementation (excluding the argument file), designed to get you up and understand what's going on quickly.
 * **Minimized Dependencies**: Simply clone and run – we've minimized dependencies to offer a smooth experience.
+* **Leverages RSL-RL**: Built upon the efficient RSL-RL library [2] for reinforcement learning.
   
 ---
 ## How to Understand train.py?
@@ -48,7 +54,7 @@ This repository has been tested on **Ubuntu 22.04**.
     [https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/)
 
 2.  **Unzip Assets**:
-    Ensure you unzip the necessary USD assets into the designated folder within this repository.
+    Ensure you unzip the necessary USD asset into the designated folder within this repository.
 
 3.  **Enjoy Training!**:
     You're now ready to dive into training Ant robot.
