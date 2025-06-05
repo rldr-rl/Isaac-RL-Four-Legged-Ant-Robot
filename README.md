@@ -7,8 +7,7 @@ This repository presents an implementation for a 12-DOF four-legged Ant robot us
 
 <p align="center">
   <img src="assets/rl-video-step-0.gif" width="300" alt="Ant Robot Training Stage 1">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/rl-video-step-2000.gif" width="300" alt="Ant Robot Training Stage 2">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/rl-video-step-8000.gif" width="300" alt="Ant Robot Training Stage 3">
+  <img src="assets/rl-video-step-2000.gif" width="300" alt="Ant Robot Training Stage 2">
 </p>
 ---
 
