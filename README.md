@@ -27,11 +27,11 @@ This repository presents an implementation for a 12-DOF four-legged Ant robot us
   <tr>
     <td align="center">
       <img src="assets/obstacle.gif" width="250" alt="Ant Robot Training Stage 2000">
-      <br><sub><b>Post-Training (Situation with Some obstacles)</b></sub>
+      <br><sub><b>Situation with Some obstacles</b></sub>
     </td>
         <td align="center">
       <img src="assets/highobstacle.gif" width="250" alt="Ant Robot Training Stage 2000">
-      <br><sub><b>Post-Training (Situation with Some obstacles 2)</b></sub>
+      <br><sub><b>Situation with Some obstacles 2</b></sub>
     </td>
   </tr>
 </table>
