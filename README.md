@@ -47,7 +47,7 @@ Future work will focus on enabling the robot to robustly overcome highly inconsi
 This repository is heavily inspired by [1], but introduces several key differences and features:
 
 * **Ant v0.0**: 12-DoF Ant robot applied.
-* **Extremely Easy Setup**: "One-file" implementation (excluding the argument file), designed to get you up and understand what's going on quickly.
+* **Extremely Easy Setup**: "One-file" implementation (excluding the argument file), designed for quick setup and easy understanding of what's going on.
 * **Minimized Dependencies**: Simply clone and run – we've minimized dependencies to offer a smooth experience.
 * **Leverages RSL-RL**: Built upon the efficient RSL-RL library [2] for reinforcement learning.
   
