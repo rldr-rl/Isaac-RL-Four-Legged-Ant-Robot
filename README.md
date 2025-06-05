@@ -5,6 +5,7 @@ This repository presents an implementation for a 12-DOF four-legged Ant robot us
 ---
 ## 🏃‍♂️ Training Progress
 
+# No obstacles:
 <table>
   <tr>
     <td align="center">
@@ -22,6 +23,8 @@ This repository presents an implementation for a 12-DOF four-legged Ant robot us
   </tr>
 </table>
 
+---
+# with Some obstacles:
 
 <table>
   <tr>
@@ -35,6 +38,9 @@ This repository presents an implementation for a 12-DOF four-legged Ant robot us
     </td>
   </tr>
 </table>
+
+---
+Future work will focus on enabling the robot to robustly overcome highly inconsistent obstacles.
 
 ## ✨ Features
 
