@@ -14,7 +14,7 @@ This repository presents an implementation for a 12-DOF four-legged Ant robot us
 ## ✨ Features
 
 * **Ant v0.0.0**: First version of Ant robot added.
-* **Leverages RSL-RL**: Built upon the efficient RSL-RL library [2] for powerful reinforcement learning.
+* **Leverages RSL-RL**: Built upon the efficient RSL-RL library [2] for reinforcement learning.
 * **Extremely Easy Setup**: "One-file" implementation (excluding the argument file), designed to get you up and understand what's going on quickly.
 * **Minimized Dependencies**: Simply clone and run – we've minimized dependencies to offer a smooth experience.
   
