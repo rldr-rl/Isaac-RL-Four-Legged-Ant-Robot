@@ -45,6 +45,7 @@ This repository has been tested on **Ubuntu 22.04**.
 
 3.  **Enjoy Training!**:
     You're now ready to dive into training Ant robot.
+    ``python train.py --headless''
 
 ---
 ## Reference:
